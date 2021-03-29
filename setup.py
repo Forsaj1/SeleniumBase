@@ -114,7 +114,7 @@ setup(
         'cryptography==2.9.2',
         'pyopenssl==19.1.0',
         'pygments==2.5.2;python_version<"3.5"',
-        'pygments==2.6.1;python_version>="3.5"',
+        'pygments==2.7.4;python_version>="3.5"',
         'packaging>=20.3',
         'colorama==0.4.3',
         'brython==3.8.8',
